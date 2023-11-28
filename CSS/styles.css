@@ -1,0 +1,30 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 140%;
+}
+
+.main.text {
+  font-weight: bold;
+  font-size: 56px;
+  letter-spacing: 2%;
+}
+
+.advantages {
+  font-weight: bold;
+  font-size: 36px;
+  letter-spacing: 2%;
+}
+
+.our-team {
+  font-weight: bold;
+  font-size: 36px;
+  letter-spacing: 2%;
+}
+
+.button {
+  cursor: pointer;
+}
