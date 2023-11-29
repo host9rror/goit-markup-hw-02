@@ -130,34 +130,7 @@ span {
   text-transform: capitalize;
 }
 
-.markg {
-  font-family: Roboto;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px; /* 150% */
-  letter-spacing: 0.32px;
-}
-
-.tomf {
-  font-family: Roboto;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px; /* 150% */
-  letter-spacing: 0.32px;
-}
-
-.camillag {
-  font-family: Roboto;
-  font-size: 16px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 24px; /* 150% */
-  letter-spacing: 0.32px;
-}
-
-.danielw {
+.our-team-list {
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
