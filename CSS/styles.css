@@ -7,6 +7,7 @@ body {
   line-height: 140%;
 }
 
+/* Header */
 .logo {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
@@ -19,6 +20,7 @@ body {
 }
 
 .studio {
+  color: #2e2f42;
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
@@ -27,7 +29,13 @@ body {
   letter-spacing: 0.32px;
 }
 
+.studio .link:hover,
+.studio .link:focus {
+  color: #404bbf;
+}
+
 .portfolio {
+  color: #2e2f42;
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
@@ -37,6 +45,7 @@ body {
 }
 
 .contacts {
+  color: var#2E2F42;
   font-family: Roboto;
   font-size: 16px;
   font-style: normal;
