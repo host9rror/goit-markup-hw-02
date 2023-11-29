@@ -19,6 +19,10 @@ body {
   text-transform: uppercase;
 }
 
+.studio-span {
+  color: #2e2f42;
+}
+
 .studio {
   color: #2e2f42;
   font-family: Roboto;
@@ -151,6 +155,7 @@ body {
   letter-spacing: 0.32px;
 }
 
+/* Our Portfolio (Section 4) */
 .section4 {
   font-family: Roboto;
   font-size: 36px;
