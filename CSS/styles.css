@@ -63,8 +63,19 @@ body {
   letter-spacing: 0.32px;
 }
 
-span {
-  color: #2e2f42;
+.address-link {
+  color: #434455;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.32px;
+}
+
+.address-link .link:hover,
+.address-link .link:focus {
+  color: #404bbf;
 }
 
 /* Section 1 */
