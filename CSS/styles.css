@@ -67,7 +67,8 @@ span {
   color: #2e2f42;
 }
 
-.main {
+/* Section 1 */
+.section1 {
   font-weight: bold;
   font-size: 56px;
   letter-spacing: 2%;
@@ -75,8 +76,8 @@ span {
   background-color: #2e2f42;
 }
 
-/* Why WebStudio(Section1) */
-.section1 {
+/* Why WebStudio(Section 2) */
+.section2 {
   background-color: #ffffff;
   font-weight: bold;
   font-size: 36px;
@@ -119,8 +120,8 @@ span {
   letter-spacing: 0.32px;
 }
 
-/* Our team(section2) */
-.section2 {
+/* Our team(section 3) */
+.section3 {
   font-family: Roboto;
   font-size: 36px;
   font-style: normal;
