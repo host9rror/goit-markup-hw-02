@@ -38,6 +38,10 @@ body {
   color: #404bbf;
 }
 
+.address {
+  font-style: normal;
+}
+
 .address-link {
   color: #434455;
   font-family: Roboto;
