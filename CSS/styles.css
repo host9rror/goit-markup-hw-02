@@ -58,7 +58,7 @@ body {
 }
 
 /* Section 1 */
-.section1 {
+.section {
   font-weight: bold;
   font-size: 56px;
   letter-spacing: 2%;
@@ -88,7 +88,8 @@ body {
   cursor: pointer;
 }
 
-.button:hover .button:focus {
+.button:hover,
+.button:focus {
   background-color: #404bbf;
 }
 
@@ -98,14 +99,6 @@ body {
   font-weight: bold;
   font-size: 36px;
   letter-spacing: 2%;
-}
-
-.advantages {
-  color: #2e2f42;
-  font-weight: 500;
-  font-size: 20;
-  line-height: 1.2;
-  letter-spacing: 0.02em;
 }
 
 .advantages-list {
