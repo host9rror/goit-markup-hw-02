@@ -7,6 +7,10 @@ body {
   line-height: 140%;
 }
 
+li {
+  list-style-type: none;
+}
+
 /* Header */
 .logo {
   color: #4d5ae5;
